@@ -1,0 +1,89 @@
+##############################################################################
+###      FullProf-generated mCIF output file  (version: December 2017)     ###
+##############################################################################
+ 
+# Please notify any error or suggestion to: 
+#           Juan Rodriguez-Carvajal (jrc@ill.eu)
+# Improvements will be progressively added as needed.
+ 
+#=============================================================================
+ data_global
+#=============================================================================
+ 
+data_
+_citation_journal_abbrev ?
+_citation_journal_volume ?
+_citation_page_first     ?
+_citation_page_last      ?
+_citation_article_id     ?
+_citation_year           ?
+loop_
+_citation_author_name
+?
+
+_atomic_positions_source_database_code_ICSD  ?
+_atomic_positions_source_other    .  
+
+_Neel_temperature  ?
+_magn_diffrn_temperature  ?
+_exptl_crystal_magnetic_properties_details
+;
+;
+_active_magnetic_irreps_details
+;
+;
+ 
+_magnetic_space_group_standard_setting  'no'
+_parent_space_group.name_H-M  ""
+_parent_space_group.IT_number    0
+
+_space_group_magn.number_BNS 7.26
+_space_group_magn.name_BNS   ?
+_parent_space_group.transform_Pp_abc  ''
+_parent_space_group.child_transform_Pp_abc  ''
+_magnetic_space_group.transform_BNS_Pp_abc  'a,b,c'
+_space_group_magn.number_OG  ?
+_space_group_magn.name_OG    ?
+
+
+_cell_length_a     5.07489
+_cell_length_b     5.26769
+_cell_length_c     8.25693
+_cell_angle_alpha  90.0000
+_cell_angle_beta   127.863
+_cell_angle_gamma  90.0000
+
+
+loop_
+    _space_group_symop_magn_operation.id
+    _space_group_symop_magn_operation.xyz
+   1  x,y,z,+1
+   2  x,-y,z+1/2,-1
+
+loop_
+    _atom_site_label
+    _atom_site_type_symbol
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_U_iso_or_equiv
+    _atom_site_occupancy
+    _atom_site_adp_type
+ Mn1 Mn  0.62605  0.82751  0.62439  0.00000  1.00000 Uiso
+ Mn2 Mn  0.87727  0.67249  0.37561  0.00000  1.00000 Uiso
+ N1 N  0.07729  0.86302  0.65918  0.00000  1.00000 Uiso
+ N2 N  0.25893  0.63698  0.34082  0.00000  1.00000 Uiso
+ N3 N  0.43851  0.79924  0.09157  0.00000  1.00000 Uiso
+ N4 N  0.75537  0.70076 -0.0916  0.00000  1.00000 Uiso
+ Si1 Si  0.13133  0.81806  0.12504  0.00000  1.00000 Uiso
+ Si2 Si  0.38125  0.68194  0.87496  0.00000  1.00000 Uiso
+ 
+
+loop_
+    _atom_site_moment.label
+    _atom_site_moment.crystalaxis_x
+    _atom_site_moment.crystalaxis_y
+    _atom_site_moment.crystalaxis_z
+ Mn1  4.89100 -0.0070  0.95300
+ Mn2 -4.8960 -0.0020 -0.9630
+
