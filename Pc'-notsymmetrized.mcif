@@ -1,0 +1,72 @@
+# Created by the Bilbao Crystallographic Server
+# http://www.cryst.ehu.es
+# Date: 06/06/2023 21:50:44
+
+# Magnesium silicon nitride
+
+# --- Magnetic Structure Data ---
+
+data_hyKWBThC
+_audit_creation_date               2023-06-06
+_audit_creation_method             "Bilbao Crystallographic Server"
+###non-st# _data_type "magnetic"
+_space_group_magn.number_BNS  1.1
+_space_group_magn.name_BNS  "?"
+_cell_length_a                     5.293697
+_cell_length_b                     6.534075
+_cell_length_c                     5.118312
+_cell_angle_alpha                  89.999892
+_cell_angle_beta                   90.000000
+_cell_angle_gamma                  90.000000
+
+loop_
+_space_group_symop_magn_operation.id
+_space_group_symop_magn_operation.xyz
+1   x,y,z,+1
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1 Mn 0.07751 0.62439 0.00166 1.0000
+Mn2 Mn 0.92249 0.37561 0.50166 1.0000
+Mn3 Mn 0.57751 0.87561 0.00166 1.0000
+Mn4 Mn 0.42249 0.12439 0.50166 1.0000
+Si1 Si 0.06806 0.12504 0.00629 1.0000
+Si2 Si 0.93194 0.87496 0.50629 1.0000
+Si3 Si 0.56806 0.37496 0.00629 1.0000
+Si4 Si 0.43194 0.62504 0.50629 1.0000
+N1 N 0.11302 0.65918 0.41811 1.0000
+N2 N 0.88698 0.34082 0.91811 1.0000
+N3 N 0.61302 0.84082 0.41811 1.0000
+N4 N 0.38698 0.15918 0.91811 1.0000
+N5 N 0.04924 0.09157 0.34694 1.0000
+N6 N 0.95076 0.90843 0.84694 1.0000
+N7 N 0.54924 0.40843 0.34694 1.0000
+N8 N 0.45076 0.59157 0.84694 1.0000
+
+loop_
+_atom_site_moment.label
+_atom_site_moment.crystalaxis_x
+_atom_site_moment.crystalaxis_y
+_atom_site_moment.crystalaxis_z
+Mn1 -0.007 0.750 4.303
+Mn2 -0.002 -0.758 -4.302
+Mn3 0.002 -0.758 -4.302
+Mn4 0.007 0.750 4.303
+Si1 0.000 0.000 0.000
+Si2 0.000 0.000 0.000
+Si3 0.000 0.000 0.000
+Si4 0.000 0.000 0.000
+N1 0.000 0.000 0.000
+N2 0.000 0.000 0.000
+N3 0.000 0.000 0.000
+N4 0.000 0.000 0.000
+N5 0.000 0.000 0.000
+N6 0.000 0.000 0.000
+N7 0.000 0.000 0.000
+N8 0.000 0.000 0.000

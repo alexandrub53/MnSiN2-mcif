@@ -1,0 +1,58 @@
+# Created by the Bilbao Crystallographic Server
+# http://www.cryst.ehu.es
+# Date: 31/05/2023 03:28:10
+
+# relaxcanted.vasp
+
+# --- Magnetic Structure Data ---
+
+data_AncFuaBR
+_audit_creation_date               2023-05-31
+_audit_creation_method             "Bilbao Crystallographic Server"
+###non-st# _data_type "magnetic"
+_space_group_magn.number_BNS  7.24
+_space_group_magn.name_BNS  "?"
+_space_group_magn.transform_BNS_Pp_abc  "a,b,c"
+_cell_length_a                     5.11836
+_cell_length_b                     6.53410
+_cell_length_c                     5.29364
+_cell_angle_alpha                  90.00000
+_cell_angle_beta                   90.00005
+_cell_angle_gamma                  90.00000
+
+loop_
+_space_group_symop_magn_operation.id
+_space_group_symop_magn_operation.xyz
+1   x,y,z,+1
+2   x,-y,z+1/2,+1
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1 Mn 0.00167 0.37440 -0.07749 1.0000
+Mn2 Mn 0.50167 0.12560 0.07749 1.0000
+N1 N 0.41811 0.40918 0.88698 1.0000
+N2 N -0.08189 0.09082 0.11302 1.0000
+N3 N 0.34694 0.84156 -0.04925 1.0000
+N4 N 0.84694 0.65844 0.04925 1.0000
+Si1 Si 0.00629 0.87504 -0.06806 1.0000
+Si2 Si 0.50629 0.62496 0.06806 1.0000
+
+loop_
+_atom_site_moment.label
+_atom_site_moment.crystalaxis_x
+_atom_site_moment.crystalaxis_y
+_atom_site_moment.crystalaxis_z
+Mn1 4.310 -0.002 -0.711
+Mn2 -4.308 -0.007 0.720
+N1 0.000 0.000 0.000
+N2 0.000 0.000 0.000
+N3 0.000 0.000 0.000
+N4 0.000 0.000 0.000
+Si1 0.000 0.000 0.000
+Si2 0.000 0.000 0.000
